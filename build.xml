@@ -13,7 +13,7 @@
   <property name="build.dir" value="build"/>
   <property name="dist.dir" value="dist"/>
 
-  <!-- Targets -->
+  <!-- Targets -->mmmmmmmmmmmmmmmmmmmmmmm
 
   <target name="resolve" description="Retrieve dependencies with Ivy.">
     <ivy:resolve log="download-only"/>
